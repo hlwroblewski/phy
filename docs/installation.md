@@ -7,7 +7,7 @@ phy works better on computers with sufficient RAM, a recent graphics card, and a
 
 ## Dependencies
 
-Main dependencies are NumPy, SciPy, PyQt5, pyopengl, joblib. The full list of dependencies is available in the `environment.yml` file.
+Main dependencies are NumPy, SciPy, PyQt5, pyopengl, joblib. The full list of dependencies is available in the `environment.yml` file. This doesn't work with Python Anaconda > 3.5
 
 ## Upgrading from phy 1 to phy 2
 
